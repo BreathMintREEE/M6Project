@@ -1,0 +1,1 @@
+For the Post and put commands It did refresh and create new a new salt, but I forgot to take a screenshot of the PUT first so I restarted the application and this time it didn't refresh it after changing the password
